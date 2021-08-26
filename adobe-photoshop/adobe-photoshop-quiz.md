@@ -434,7 +434,7 @@
 
 - [ ] Pencil tool
 - [ ] Vanishing Point
-- [ ] Pen tool
+- [x] Pen tool
 - [ ] Trace Contour filter
 
 #### Q56. How do you browse images on your hard drive using the companion application that is included with the Adobe Creative Cloud plans?
